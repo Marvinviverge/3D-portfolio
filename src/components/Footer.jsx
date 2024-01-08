@@ -6,7 +6,7 @@ const Footer = () => {
             <p>
                 Copyright© by Marvin VIVERGE 2024 – Tous droits réservés |
             </p>
-            <a href="/credits">Credits on GitHub</a>
+            <a href="https://github.com/Marvinviverge/3D-portfolio">Credits on GitHub</a>
         </footer>
     );
 };

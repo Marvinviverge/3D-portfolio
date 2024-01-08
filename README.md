@@ -1,8 +1,9 @@
-# React + Vite
+# Bienvenue sur mon Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Thanks for 3D models to:
 
-Currently, two official plugins are available:
+- LumpyCake (https://sketchfab.com/LumpyCake) for the "Vintage Phone" (https://sketchfab.com/3d-models/vintage-phone-d0201be430fd4facaeff006a2f5dba02) by licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- peewee.id (https://sketchfab.com/p2eweeworld) for the "Flat Design WEB" (https://sketchfab.com/3d-models/flat-design-web-b12df26ec16749d1abb589cceac9d1d1) by licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+A big thanks for the inspiration of this 3D portfolio to Javascript Mastery on Youtube (https://www.youtube.com/@javascriptmastery).
